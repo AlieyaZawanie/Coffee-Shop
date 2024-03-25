@@ -1,3 +1,3 @@
-#JAVA COFFEE SHOP 
+# JAVA COFFEE SHOP 
 
-My team and i create this coffee shop code for our final project Object Oriented Programming during our fourth semester.
+My team and I create this coffee shop code for our final project for Object Oriented Programming during our fourth semester.
